@@ -1,4 +1,4 @@
-# Image processing MATLAB
+# MATLAB Image processing 
 
 
 ## Image correction functions
